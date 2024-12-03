@@ -1,0 +1,7 @@
+
+alias ll='ls -lah'
+alias gs='git status'
+alias python='python3'
+alias pip='pip3'
+alias reload_zsh="source ~/.zshrc && echo 'Zsh config reloaded!'"
+
